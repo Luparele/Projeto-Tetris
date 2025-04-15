@@ -1,6 +1,6 @@
 # Tetris Retrô com História
 
-Este é um projeto de um jogo Tetris retrô implementado usando HTML5, CSS e JavaScript. Ao lado da área de jogo, há um carrossel de slides que conta a história do icônico jogo Tetris.
+Este é um projeto de um jogo Tetris retrô implementado usando HTML5, CSS e JavaScript.
 
 ## História do Jogo Tetris
 
