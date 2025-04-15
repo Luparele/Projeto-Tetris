@@ -52,3 +52,16 @@ O objetivo principal é encaixar peças geométricas que caem (tetraminós) para
 * **JavaScript:** Lógica do jogo, controle dos blocos e pontuação.
 
 ## Estrutura de Arquivos
+
+Tetris Retrô/
+├── index.html
+├── style.css
+└── script.js
+└── README.md
+
+## Créditos
+
+* **Desenvolvedor:** [Eduardo Luparele] / [Luparele](https://github.com/Luparele)
+* **Inspiração:** O clássico jogo Tetris criado por Alexey Pajitnov.
+
+Sinta-se à vontade para contribuir com este projeto!
