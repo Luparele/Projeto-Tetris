@@ -1,4 +1,4 @@
-# Tetris Retrô com História
+# Tetris Retrô.
 
 Este é um projeto de um jogo Tetris retrô implementado usando HTML5, CSS e JavaScript.
 
