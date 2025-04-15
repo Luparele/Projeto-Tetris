@@ -61,7 +61,7 @@ Tetris Retrô/
 
 ## Créditos
 
-* **Desenvolvedor:** [Eduardo Luparele] / [Luparele](https://github.com/Luparele)
+* **Desenvolvedor:** [![Meu GitHub](https://img.shields.io/badge/GitHub-Luparele-brightgreen?style=flat-square)](https://github.com/Luparele)
 * **Inspiração:** O clássico jogo Tetris criado por Alexey Pajitnov.
 
 Sinta-se à vontade para contribuir com este projeto!
